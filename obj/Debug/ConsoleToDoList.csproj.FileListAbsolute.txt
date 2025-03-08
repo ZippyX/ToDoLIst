@@ -1,0 +1,7 @@
+C:\Users\freea\source\repos\ConsoleToDoList\ConsoleToDoList\bin\Debug\ConsoleToDoList.exe.config
+C:\Users\freea\source\repos\ConsoleToDoList\ConsoleToDoList\bin\Debug\ConsoleToDoList.exe
+C:\Users\freea\source\repos\ConsoleToDoList\ConsoleToDoList\bin\Debug\ConsoleToDoList.pdb
+C:\Users\freea\source\repos\ConsoleToDoList\ConsoleToDoList\obj\Debug\ConsoleToDoList.csproj.AssemblyReference.cache
+C:\Users\freea\source\repos\ConsoleToDoList\ConsoleToDoList\obj\Debug\ConsoleToDoList.csproj.CoreCompileInputs.cache
+C:\Users\freea\source\repos\ConsoleToDoList\ConsoleToDoList\obj\Debug\ConsoleToDoList.exe
+C:\Users\freea\source\repos\ConsoleToDoList\ConsoleToDoList\obj\Debug\ConsoleToDoList.pdb
